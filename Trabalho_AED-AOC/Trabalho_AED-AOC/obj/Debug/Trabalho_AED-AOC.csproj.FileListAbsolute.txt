@@ -1,0 +1,42 @@
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.exe.config
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.exe
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.pdb
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\MetroFramework.Design.dll
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\MetroFramework.dll
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED_AOC.Properties.Resources.resources
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.GenerateResource.cache
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.CopyComplete
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.exe
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.pdb
+C:\Users\Victor\Documents\Visual Studio 2017\Projetos\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED_AOC.Simulador.resources
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.exe.config
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.exe
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.pdb
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\bin\Debug\MetroFramework.Design.dll
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\bin\Debug\MetroFramework.dll
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csprojResolveAssemblyReference.cache
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED_AOC.Simulador.resources
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED_AOC.Properties.Resources.resources
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.GenerateResource.cache
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.CoreCompileInputs.cache
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.CopyComplete
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.exe
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC BACKUP\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.pdb
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.exe.config
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.exe
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\Trabalho_AED-AOC.pdb
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\MetroFramework.Design.dll
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\MetroFramework.dll
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED_AOC.Simulador.resources
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED_AOC.Properties.Resources.resources
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.GenerateResource.cache
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.CoreCompileInputs.cache
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csproj.CopyComplete
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.exe
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.pdb
+C:\Users\Thales\Documents\Visual Studio 2017\Projects\Trabalho_AED-AOC\Trabalho_AED-AOC\obj\Debug\Trabalho_AED-AOC.csprojAssemblyReference.cache
